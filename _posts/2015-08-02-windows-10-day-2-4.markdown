@@ -1,0 +1,16 @@
+---
+published: false
+title: Windows 10 Day 2-4
+layout: post
+---
+So yes, I missed a few days. But that was because in the last 3 days, I have only used windows in one day. I have been pretty busy doin stuff. But here are my reactions and reviews. 
+
+So I have decided to move Win10 onto my non-school computer, and it was a lot easier. The download was way faster(which is because I did it at a Starbucks that was nearby Google). The install was faster(faster computer and ssd). And overall the process was a lot faster. 
+
+Now the reason I point this out, is that when I installed the preview, it was a lot faster. When I installed the upgrade, it took a lot longer. I was trying to diagnose if the issue was on my end, or on theirs. Now I know. 
+
+So, Windows 10 work excellent on a 12.5in laptop, I was curious how it would preform on a large laptop with higher resolution. So far so great. It brings me back to not only the Win7 days, but also WinXP days. That was where I started my intrest in computers(I started using winXP 6 years after launch in 2007, I was 7). When I first started using Win10 preview, it was more like Win8 with a start menu, then it became more like Win7 with some Win8 stuff.  Now it is capable of both. With a tablet mode and a desktop mode, people with 2in1s rejoice. 
+
+But overall, a lot similar to my other laptop. Maybe a little more buggy(because I have way more software on this machine that windows had to move over), but I can handle it.  
+
+I'll have more later... 
